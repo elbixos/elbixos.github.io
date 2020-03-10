@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Les dépots d'Elbixos
 
-You can use the [editor on GitHub](https://github.com/elbixos/elbixos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Vous trouverez ici les dépots :
+- de projets en cours
+- de projets correspondants à mes cours à l'université des antilles.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cette page a pour but de fournir surtout un point d'accès facile aux étudiants.
+Les autres peuvent aller fouiller mon compte github...
 
-### Markdown
+## Les Cours
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Licence Info 1 :
 
-```markdown
-Syntax highlighted code block
+- Semestre 1, [Option Informatique](https://elbixos.github.io/L1_OptionInfo/)
+- Semestre 2, [Approfondissement Informatique](https://elbixos.github.io/L1_ApprofondissementInfo/)
 
-# Header 1
-## Header 2
-### Header 3
+### Licence Info 2 :
+- Semestre 1, [Jeux Video et Maths](https://elbixos.github.io/L2_JeuxVideo/)
 
-- Bulleted
-- List
+### Licence Info 3 :
+- Semestre 2, [Intelligence Artificielle et Apprentissage](https://elbixos.github.io/L3_IA/)
+- Semestre 2, [Graphes, Flots et Applications](https://elbixos.github.io/L3_Graphes/) $$Arret de ce cours$$
 
-1. Numbered
-2. List
+### Master Info 1 :
+- Semestre 2, [Apprentissage et Optimisation](https://elbixos.github.io/M1_ApprentissageEtOpti/)
 
-**Bold** and _Italic_ and `Code` text
+### Master Info 2 :
+- Semestre 2, [Connectionnisme et Deep Learning](https://elbixos.github.io/M2_Connectionnisme/)
 
-[Link](url) and ![Image](src)
-```
+### Master Energetique 1
+- Semestre 1, [Prog Java et objets connectés](https://elbixos.github.io/M1EN_Domotique/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Diplome Ingénieur / Premiere Année :
+- Semestre 1, [Algorithmique](https://github.com/elbixos/Inge1_Algo)
+- Semestre 1, [Programmation](https://github.com/elbixos/Inge1_Matlab)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elbixos/elbixos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
