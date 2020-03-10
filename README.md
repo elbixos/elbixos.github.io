@@ -19,7 +19,7 @@ Les autres peuvent aller fouiller mon compte github...
 
 ### Licence Info 3 :
 - Semestre 2, [Intelligence Artificielle et Apprentissage](https://elbixos.github.io/L3_IA/)
-- Semestre 2, [Graphes, Flots et Applications](https://elbixos.github.io/L3_Graphes/) $$Arret de ce cours$$
+- Semestre 2, [Graphes, Flots et Applications](https://elbixos.github.io/L3_Graphes/) **Arret de ce cours**
 
 ### Master Info 1 :
 - Semestre 2, [Apprentissage et Optimisation](https://elbixos.github.io/M1_ApprentissageEtOpti/)
