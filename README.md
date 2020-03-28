@@ -31,8 +31,8 @@ Les autres peuvent aller fouiller mon compte github...
 - Semestre 1, [Prog Java et objets connectés](https://elbixos.github.io/M1EN_Domotique/)
 
 ### Diplome Ingénieur / Premiere Année :
-- Semestre 1, [Algorithmique](https://github.com/elbixos/Inge1_Algo)
-- Semestre 1, [Programmation](https://github.com/elbixos/Inge1_Matlab)
+- Semestre 1, [Algorithmique](https://elbixos.github.io/Inge1_Algo)
+- Semestre 1, [Programmation](https://elbixos.github.io/Inge1_Matlab)
 
 
 
