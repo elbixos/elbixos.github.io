@@ -19,7 +19,17 @@ Les autres peuvent aller fouiller mon compte github...
 
 ### Licence Info 3 :
 - Semestre 2, [Intelligence Artificielle et Apprentissage](https://elbixos.github.io/L3_IA/)
-- Semestre 2, [Graphes, Flots et Applications](https://elbixos.github.io/L3_Graphes/) **Arret de ce cours**
+- Semestre 2, [Graphes, Flots et Applications](https://elbixos.github.io/L3_Graphes/) **Reprise de ce cours**
+
+### Diplome Ingénieur / Premiere Année :
+- Semestre 1, [Algorithmique](https://elbixos.github.io/Inge1_Algo)
+- Semestre 1, [Programmation](https://elbixos.github.io/Inge1_Matlab)
+
+### DIU EIL
+- [IA / MachineLearning](https://elbixos.github.io/DIU_EIL_IA/)
+
+
+## Les cours abandonnés, repris par d'autres ou anciens ou de formations disparues...
 
 ### Master Info 1 :
 - Semestre 2, [Apprentissage et Optimisation](https://elbixos.github.io/M1_ApprentissageEtOpti/)
@@ -29,11 +39,6 @@ Les autres peuvent aller fouiller mon compte github...
 
 ### Master Energetique 1
 - Semestre 1, [Prog Java et objets connectés](https://elbixos.github.io/M1EN_Domotique/)
-
-### Diplome Ingénieur / Premiere Année :
-- Semestre 1, [Algorithmique](https://elbixos.github.io/Inge1_Algo)
-- Semestre 1, [Programmation](https://elbixos.github.io/Inge1_Matlab)
-
 
 
 
