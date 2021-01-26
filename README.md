@@ -23,13 +23,12 @@ Les autres peuvent aller fouiller mon compte github...
 
 ### Diplome Ingénieur / Premiere Année :
 - Semestre 1, [Algorithmique](https://elbixos.github.io/Inge1_Algo)
-- Semestre 1, [Programmation](https://elbixos.github.io/Inge1_Matlab)
+- Semestre 1, [Matlab](https://elbixos.github.io/Inge1_Matlab)
 
 ### DIU EIL
 - [IA / MachineLearning](https://elbixos.github.io/DIU_EIL_IA/)
 
 ### Formations pour l'académie de Guadeloupe
-
 
 - [IA / MachineLearning](https://elbixos.github.io/DIU_EIL_IA/) : niveaux 1 et 2
 
