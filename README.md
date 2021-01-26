@@ -28,6 +28,10 @@ Les autres peuvent aller fouiller mon compte github...
 ### DIU EIL
 - [IA / MachineLearning](https://elbixos.github.io/DIU_EIL_IA/)
 
+### Formations pour l'académie de Guadeloupe
+
+
+- [IA / MachineLearning](https://elbixos.github.io/DIU_EIL_IA/) : niveaux 1 et 2
 
 ## Les cours abandonnés, repris par d'autres ou anciens ou de formations disparues...
 
@@ -39,16 +43,3 @@ Les autres peuvent aller fouiller mon compte github...
 
 ### Master Energetique 1
 - Semestre 1, [Prog Java et objets connectés](https://elbixos.github.io/M1EN_Domotique/)
-
-
-
-
-
-
-
-
-
-
-
-
-
