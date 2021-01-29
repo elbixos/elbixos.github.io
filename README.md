@@ -26,7 +26,7 @@ Les autres peuvent aller fouiller mon compte github...
 - Semestre 1, [Matlab](https://elbixos.github.io/Inge1_Matlab)
 
 ### DIU EIL
-- [IA / MachineLearning](https://elbixos.github.io/DIU_EIL_IA/)
+- [Robotique](https://elbixos.github.io/M1EN_Domotique/)
 
 ### Formations pour l'académie de Guadeloupe
 
