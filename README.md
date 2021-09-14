@@ -11,7 +11,6 @@ Les autres peuvent aller fouiller mon compte github...
 
 ### Licence Info 1 :
 
-- Semestre 1, [Option Informatique](https://elbixos.github.io/L1_OptionInfo/)
 - Semestre 2, [Approfondissement Informatique](https://elbixos.github.io/L1_ApprofondissementInfo/)
 
 ### Licence Info 2 :
@@ -19,20 +18,24 @@ Les autres peuvent aller fouiller mon compte github...
 
 ### Licence Info 3 :
 - Semestre 2, [Intelligence Artificielle et Apprentissage](https://elbixos.github.io/L3_IA/)
-- Semestre 2, [Graphes, Flots et Applications](https://elbixos.github.io/L3_Graphes/) **Reprise de ce cours**
+
 
 ### Diplome Ingénieur / Premiere Année :
 - Semestre 1, [Algorithmique](https://elbixos.github.io/Inge1_Algo)
 - Semestre 1, [Matlab](https://elbixos.github.io/Inge1_Matlab)
 
-### DIU EIL
-- [Robotique](https://elbixos.github.io/M1EN_Domotique/)
 
 ### Formations pour l'académie de Guadeloupe
 
 - [IA / MachineLearning](https://elbixos.github.io/DIU_EIL_IA/) : niveaux 1 et 2
 
 ## Les cours abandonnés, repris par d'autres ou anciens ou de formations disparues...
+
+### Licence Info 1
+- Semestre 1, [Option Informatique](https://elbixos.github.io/L1_OptionInfo/)
+
+### Licence Info 3
+- Semestre 2, [Graphes, Flots et Applications](https://elbixos.github.io/L3_Graphes/)
 
 ### Master Info 1 :
 - Semestre 2, [Apprentissage et Optimisation](https://elbixos.github.io/M1_ApprentissageEtOpti/)
@@ -42,3 +45,6 @@ Les autres peuvent aller fouiller mon compte github...
 
 ### Master Energetique 1
 - Semestre 1, [Prog Java et objets connectés](https://elbixos.github.io/M1EN_Domotique/)
+
+### DIU EIL
+- [Robotique](https://elbixos.github.io/M1EN_Domotique/)
