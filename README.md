@@ -29,6 +29,12 @@ Les autres peuvent aller fouiller mon compte github...
 
 - [IA / MachineLearning](https://elbixos.github.io/DIU_EIL_IA/) : niveaux 1 et 2
 
+### Autres
+
+- [Réseaux Récurrents](https://elbixos.github.io/reccurent_networks/) : LSTM / GRU 
+
+
+
 ## Les cours abandonnés, repris par d'autres ou anciens ou de formations disparues...
 
 ### Licence Info 1
