@@ -17,7 +17,7 @@ Les autres peuvent aller fouiller mon compte github...
 - Semestre 1, [Jeux Video et Maths](https://elbixos.github.io/L2_JeuxVideo/)
 
 ### Licence Info 3 :
-- Semestre 2, [Intelligence Artificielle et Apprentissage](https://elbixos.github.io/L3_IA/)
+- Semestre 2, [Intelligence Artificielle et Apprentissage](https://elbixos.github.io/Intro_IA_v2/)
 
 
 ### Diplome Ingénieur / Premiere Année :
